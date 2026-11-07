@@ -1,0 +1,19 @@
+Small icons used in the profile README. Official marks from the public source repos, shrunk to ~28px display. Not gameplay screenshots.
+
+open-game-skills.png
+  Source: jammyfu/open-game-skills docs/open_game_logo.png (official logo)
+  License: MIT
+
+awesome-gpt-image-gifs.png
+  Source: jammyfu/awesome-gpt-image-gifs docs/readme-assets/project-icon.png (project icon, not a catalog case)
+  License: MIT (code/docs); this file is original project art per that repo's readme-assets note
+
+the-legend-of-trump.svg
+  Source: jammyfu/TheLegendOfTrump public/favicon.svg
+  Upstream repo has no LICENSE file. Owner-authorized profile README use.
+
+comfyui-paintingcoder-utils.png
+  Source: jammyfu/ComfyUI_PaintingCoderUtils docs/images/paiting_coder_icon_400.jpg
+  License: MIT
+
+No icon used for reverse-engineering-atlas or github-risers: those repos have no official icon, only social banners or third-party catalog images.
