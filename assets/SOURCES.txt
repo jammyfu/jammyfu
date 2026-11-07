@@ -1,0 +1,21 @@
+Thumbnails in this folder are static, compressed crops for the jammyfu profile README.
+Original files remain in their public source repositories.
+
+open-game-skills.jpg
+  Source: jammyfu/open-game-skills examples/pelican-bicycle/docs/preview.gif (one static frame)
+  License: MIT
+  https://github.com/jammyfu/open-game-skills/blob/main/LICENSE
+
+the-legend-of-trump.jpg
+  Source: jammyfu/TheLegendOfTrump artifacts/combo-1.png (owner gameplay screenshot)
+  Upstream repo has no LICENSE file. Used here only for this owner-authorized profile README.
+
+comfyui-paintingcoder-utils.jpg
+  Source: jammyfu/ComfyUI_PaintingCoderUtils docs/images/mask_preview01.png
+  License: MIT
+  https://github.com/jammyfu/ComfyUI_PaintingCoderUtils/blob/main/LICENSE
+
+Not copied into this repo:
+  reverse-engineering-atlas — in-repo images are third-party project/tool shots or a text social banner.
+  github-risers — in-repo image is a social banner, not a ranking-board screenshot.
+  awesome-gpt-image-gifs — gallery media is third-party; MIT covers code/docs only (see MEDIA_RIGHTS.md).
