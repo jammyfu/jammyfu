@@ -45,4 +45,6 @@ Open Game Skills now leads with its existing red boxing-glove controller logo (d
 
 ## Revision 4: compact comparison table
 
-At the owner’s request, all five featured projects now use a two-column preview/description table. Six existing images (including the Open Game Skills logo) are capped at 220 px. All original descriptions, evidence limits, source links and 17 projects are retained. Five languages share the same order. No media or descriptive claims were replaced.
+At the owner’s request, all five featured projects now use a two-column preview/description table. Six existing images (including the Open Game Skills logo) are capped at 140 px. All original descriptions, evidence limits, source links and 17 projects are retained. Five languages share the same order. No media or descriptive claims were replaced.
+
+Full original descriptions are retained in five standalone expandable sections below the table; project names share the preview cell so they remain visible at narrow widths.
