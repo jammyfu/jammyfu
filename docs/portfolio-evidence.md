@@ -42,3 +42,7 @@ All source media is in the owner’s public project repositories and used for th
 ## Revision 3: owner-requested lead project
 
 Open Game Skills now leads with its existing red boxing-glove controller logo (docs/open_game_logo.png), visually checked against the source README. This is branding, not a project screenshot. The recorded Fighter demo remains below it. Trump moves to second position, per the owner’s correction; all five locales share this order. No new logo was invented.
+
+## Revision 4: compact comparison table
+
+At the owner’s request, all five featured projects now use a two-column preview/description table. Six existing images (including the Open Game Skills logo) are capped at 220 px. All original descriptions, evidence limits, source links and 17 projects are retained. Five languages share the same order. No media or descriptive claims were replaced.

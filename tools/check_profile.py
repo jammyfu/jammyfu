@@ -15,8 +15,8 @@ for name in files:
  for url in re.findall(r'https://[^\s)"<>]+',s):
   u=urlparse(url);assert u.netloc in ['github.com','raw.githubusercontent.com'],url
   assert u.path.split('/')[1]=='jammyfu',url
- assert s.count('<img ')==6 and s.count('width="880"')==5 and s.count('width="640"')==1,name
+ assert s.count('<img ')==6 and s.count('width="220"')==6,name
  assert 'awesome-gpt-image-gifs' not in s
  assert 'id="selected-work"' in s and 'id="public-projects"' in s
  print('PASS',name)
-print('PASS: 17 public projects, five languages, large original-media previews, owner-only URLs, anchors and files')
+print('PASS: 17 public projects, five languages, compact original-media preview tables, owner-only URLs, anchors and files')

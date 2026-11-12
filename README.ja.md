@@ -11,67 +11,13 @@
 <a id="selected-work"></a>
 ## 代表作品
 
-### [Open Game Skills · PunchBox Fighter](https://github.com/jammyfu/open-game-skills)
-
-<a href="https://github.com/jammyfu/open-game-skills"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/open_game_logo.png" width="640" alt="Open Game Skills"></a>
-
-**スキルを説明するだけでなく、ゲームで示す。** · スキル集 + ゲーム例
-
-<a href="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif" width="880" alt="公開スキルリポジトリの PunchBox Fighter 録画。リアルタイム生成ではありません。"></a>
-
-開発タスクに応じて専門スキルとエンジンアダプターを選択。公開例の PunchBox Fighter はヒットストップ、カウンター、コンボ表示、フィニッシュ演出を備えます。アニメーションとリギングの実装例も含む再利用可能なスキル集で、ゲームエンジンではありません。
-
-Agent Skills · Python · ゲーム開発ワークフロー
-
-[**プロジェクトを見る →**](https://github.com/jammyfu/open-game-skills) · [実装を見る](https://github.com/jammyfu/open-game-skills/tree/main/skills)
-
-### [The Legend of Trump · 白宫奇遇记](https://github.com/jammyfu/TheLegendOfTrump)
-
-**世界づくりから戦闘まで、遊べるブラウザー冒険ゲームに。** · アプリ / プレイ可能な作品
-
-<a href="https://raw.githubusercontent.com/jammyfu/TheLegendOfTrump/7e154883b561920093376d0b2de7595c61448dc7/artifacts/boss-summoned-guards.png"><img src="https://raw.githubusercontent.com/jammyfu/TheLegendOfTrump/7e154883b561920093376d0b2de7595c61448dc7/artifacts/boss-summoned-guards.png" width="880" alt="実際のボス戦：ターゲット、護衛、戦闘 UI。"></a>
-
-AI と協力して開発したローポリゴン 3D 冒険ゲーム。探索、剣・盾・弓、敵の行動、ボス戦、マウス・キーボードとタッチ操作を実装。公開リポジトリでシミュレーション、UI、アセット、ブラウザーテストを確認できます。非公式の独立作品であり、ライセンスを受けたリメイクではありません。
-
-React · TypeScript · Three.js / R3F · WebGL
-
-[**プロジェクトを見る →**](https://github.com/jammyfu/TheLegendOfTrump) · [実装を見る](https://github.com/jammyfu/TheLegendOfTrump/tree/main/src/game)
-
-### [MagMark](https://github.com/jammyfu/MagMark)
-
-**Markdown を実際に使える誌面へ。** · アプリ / プレイ可能な作品
-
-<a href="assets/magmark-live.jpg"><img src="assets/magmark-live.jpg" width="880" alt="実際の画面と収録済みのデモです。UI の言語は原画面のままです。画像をクリックすると元の画像を開けます。"></a>
-
-中国語と欧文の混植に対応するブラウザーエディター。ページプレビュー、PNG、印刷 / PDF、WeChat 向けリッチテキストの出力経路と制約を分けています。現在はベータ版で、利用環境と公開先での確認が必要です。
-
-TypeScript · エディター UX · 描画と書き出し
-
-[**プロジェクトを見る →**](https://github.com/jammyfu/MagMark) · [実装を見る](https://github.com/jammyfu/MagMark/tree/main/src)
-
-### [Xiangsheng Genealogy · 相声家谱](https://github.com/jammyfu/xiangsheng-genealogy)
-
-**文化資料を探索できるインタラクティブ作品へ。** · インタラクティブ可視化
-
-<a href="https://raw.githubusercontent.com/jammyfu/xiangsheng-genealogy/5dd9860199b2f341cd7ea027a5cfdb5f0607db7a/docs/qa/layered-scroll-fullscreen.png"><img src="https://raw.githubusercontent.com/jammyfu/xiangsheng-genealogy/5dd9860199b2f341cd7ea027a5cfdb5f0607db7a/docs/qa/layered-scroll-fullscreen.png" width="880" alt="実際の巻物 UI：世代、人物名、師弟関係を表示。"></a>
-
-水墨風の巻物、3D の師弟関係、検索と人物情報を、構造化した人物・関係・出典データにつなげます。異説のある関係には印を残し、資料整理を確定史実として扱いません。
-
-React · Three.js · TypeScript · 構造化データ
-
-[**プロジェクトを見る →**](https://github.com/jammyfu/xiangsheng-genealogy) · [実装を見る](https://github.com/jammyfu/xiangsheng-genealogy/tree/main/data)
-
-### [ComfyUI PaintingCoderUtils](https://github.com/jammyfu/ComfyUI_PaintingCoderUtils)
-
-**創作の繰り返し作業を減らす小さなツール。** · AI ワークフロー統合
-
-<a href="https://raw.githubusercontent.com/jammyfu/ComfyUI_PaintingCoderUtils/ccf81d94fecd805bb57fe5764c29cab17af01aa4/docs/images/image_resolution_adjuster01.png"><img src="https://raw.githubusercontent.com/jammyfu/ComfyUI_PaintingCoderUtils/ccf81d94fecd805bb57fe5764c29cab17af01aa4/docs/images/image_resolution_adjuster01.png" width="880" alt="実際の画面と収録済みのデモです。UI の言語は原画面のままです。画像をクリックすると元の画像を開けます。"></a>
-
-画像サイズ、テキスト整形、マスク、ワークフロー修復用の ComfyUI カスタムノード。画像だけでなく、サンプル JSON と移行用修復ツールを提供します。
-
-Python · 画像ワークフロー · 統合の使いやすさ
-
-[**プロジェクトを見る →**](https://github.com/jammyfu/ComfyUI_PaintingCoderUtils) · [実装を見る](https://github.com/jammyfu/ComfyUI_PaintingCoderUtils/tree/main/workflow)
+| プレビュー | プロジェクトと実装 |
+| --- | --- |
+| <a href="https://github.com/jammyfu/open-game-skills"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/open_game_logo.png" width="220" alt="Open Game Skills"></a><br><a href="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif" width="220" alt="公開スキルリポジトリの PunchBox Fighter 録画。リアルタイム生成ではありません。"></a> | **[Open Game Skills · PunchBox Fighter](https://github.com/jammyfu/open-game-skills)**<br><br>**スキルを説明するだけでなく、ゲームで示す。** · スキル集 + ゲーム例<br><br>開発タスクに応じて専門スキルとエンジンアダプターを選択。公開例の PunchBox Fighter はヒットストップ、カウンター、コンボ表示、フィニッシュ演出を備えます。アニメーションとリギングの実装例も含む再利用可能なスキル集で、ゲームエンジンではありません。<br><br>Agent Skills · Python · ゲーム開発ワークフロー<br><br>[**プロジェクトを見る →**](https://github.com/jammyfu/open-game-skills) · [実装を見る](https://github.com/jammyfu/open-game-skills/tree/main/skills) |
+| <a href="https://raw.githubusercontent.com/jammyfu/TheLegendOfTrump/7e154883b561920093376d0b2de7595c61448dc7/artifacts/boss-summoned-guards.png"><img src="https://raw.githubusercontent.com/jammyfu/TheLegendOfTrump/7e154883b561920093376d0b2de7595c61448dc7/artifacts/boss-summoned-guards.png" width="220" alt="実際のボス戦：ターゲット、護衛、戦闘 UI。"></a> | **[The Legend of Trump · 白宫奇遇记](https://github.com/jammyfu/TheLegendOfTrump)**<br><br>**世界づくりから戦闘まで、遊べるブラウザー冒険ゲームに。** · アプリ / プレイ可能な作品<br><br>AI と協力して開発したローポリゴン 3D 冒険ゲーム。探索、剣・盾・弓、敵の行動、ボス戦、マウス・キーボードとタッチ操作を実装。公開リポジトリでシミュレーション、UI、アセット、ブラウザーテストを確認できます。非公式の独立作品であり、ライセンスを受けたリメイクではありません。<br><br>React · TypeScript · Three.js / R3F · WebGL<br><br>[**プロジェクトを見る →**](https://github.com/jammyfu/TheLegendOfTrump) · [実装を見る](https://github.com/jammyfu/TheLegendOfTrump/tree/main/src/game) |
+| <a href="assets/magmark-live.jpg"><img src="assets/magmark-live.jpg" width="220" alt="実際の画面と収録済みのデモです。UI の言語は原画面のままです。画像をクリックすると元の画像を開けます。"></a> | **[MagMark](https://github.com/jammyfu/MagMark)**<br><br>**Markdown を実際に使える誌面へ。** · アプリ / プレイ可能な作品<br><br>中国語と欧文の混植に対応するブラウザーエディター。ページプレビュー、PNG、印刷 / PDF、WeChat 向けリッチテキストの出力経路と制約を分けています。現在はベータ版で、利用環境と公開先での確認が必要です。<br><br>TypeScript · エディター UX · 描画と書き出し<br><br>[**プロジェクトを見る →**](https://github.com/jammyfu/MagMark) · [実装を見る](https://github.com/jammyfu/MagMark/tree/main/src) |
+| <a href="https://raw.githubusercontent.com/jammyfu/xiangsheng-genealogy/5dd9860199b2f341cd7ea027a5cfdb5f0607db7a/docs/qa/layered-scroll-fullscreen.png"><img src="https://raw.githubusercontent.com/jammyfu/xiangsheng-genealogy/5dd9860199b2f341cd7ea027a5cfdb5f0607db7a/docs/qa/layered-scroll-fullscreen.png" width="220" alt="実際の巻物 UI：世代、人物名、師弟関係を表示。"></a> | **[Xiangsheng Genealogy · 相声家谱](https://github.com/jammyfu/xiangsheng-genealogy)**<br><br>**文化資料を探索できるインタラクティブ作品へ。** · インタラクティブ可視化<br><br>水墨風の巻物、3D の師弟関係、検索と人物情報を、構造化した人物・関係・出典データにつなげます。異説のある関係には印を残し、資料整理を確定史実として扱いません。<br><br>React · Three.js · TypeScript · 構造化データ<br><br>[**プロジェクトを見る →**](https://github.com/jammyfu/xiangsheng-genealogy) · [実装を見る](https://github.com/jammyfu/xiangsheng-genealogy/tree/main/data) |
+| <a href="https://raw.githubusercontent.com/jammyfu/ComfyUI_PaintingCoderUtils/ccf81d94fecd805bb57fe5764c29cab17af01aa4/docs/images/image_resolution_adjuster01.png"><img src="https://raw.githubusercontent.com/jammyfu/ComfyUI_PaintingCoderUtils/ccf81d94fecd805bb57fe5764c29cab17af01aa4/docs/images/image_resolution_adjuster01.png" width="220" alt="実際の画面と収録済みのデモです。UI の言語は原画面のままです。画像をクリックすると元の画像を開けます。"></a> | **[ComfyUI PaintingCoderUtils](https://github.com/jammyfu/ComfyUI_PaintingCoderUtils)**<br><br>**創作の繰り返し作業を減らす小さなツール。** · AI ワークフロー統合<br><br>画像サイズ、テキスト整形、マスク、ワークフロー修復用の ComfyUI カスタムノード。画像だけでなく、サンプル JSON と移行用修復ツールを提供します。<br><br>Python · 画像ワークフロー · 統合の使いやすさ<br><br>[**プロジェクトを見る →**](https://github.com/jammyfu/ComfyUI_PaintingCoderUtils) · [実装を見る](https://github.com/jammyfu/ComfyUI_PaintingCoderUtils/tree/main/workflow) |
 
 <sub>実際の画面と収録済みのデモです。UI の言語は原画面のままです。画像をクリックすると元の画像を開けます。</sub>
 
