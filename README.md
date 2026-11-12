@@ -11,6 +11,20 @@ I build practical tools that turn an idea into something people can inspect, run
 <a id="selected-work"></a>
 ## Selected work
 
+### [Open Game Skills · PunchBox Fighter](https://github.com/jammyfu/open-game-skills)
+
+<a href="https://github.com/jammyfu/open-game-skills"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/open_game_logo.png" width="640" alt="Open Game Skills"></a>
+
+**From reusable agent skills to a fighting-game result.** · Skill pack + example game
+
+<a href="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif" width="880" alt="Recorded PunchBox Fighter finisher from the public skill repository, not live generation."></a>
+
+Game-development tasks are routed to specialized skills and engine adapters. PunchBox Fighter is a publicly documented example of the workflow: hitstop, counter hits, combo feedback and finisher cinematics. The skill pack also includes inspectable animation and rigging examples; it is not a game engine.
+
+Agent Skills · Python · game-development workflows
+
+[**View project →**](https://github.com/jammyfu/open-game-skills) · [Inspect implementation](https://github.com/jammyfu/open-game-skills/tree/main/skills)
+
 ### [The Legend of Trump · 白宫奇遇记](https://github.com/jammyfu/TheLegendOfTrump)
 
 **A browser adventure, from world-building to combat.** · Application / playable project
@@ -22,18 +36,6 @@ AI-assisted development of a playable low-poly 3D adventure: exploration, sword/
 React · TypeScript · Three.js / R3F · WebGL
 
 [**View project →**](https://github.com/jammyfu/TheLegendOfTrump) · [Inspect implementation](https://github.com/jammyfu/TheLegendOfTrump/tree/main/src/game)
-
-### [Open Game Skills · PunchBox Fighter](https://github.com/jammyfu/open-game-skills)
-
-**From reusable agent skills to a fighting-game result.** · Skill pack + example game
-
-<a href="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif" width="880" alt="Recorded PunchBox Fighter finisher from the public skill repository, not live generation."></a>
-
-Game-development tasks are routed to specialized skills and engine adapters. PunchBox Fighter is a publicly documented example of the workflow: hitstop, counter hits, combo feedback and finisher cinematics. The skill pack also includes inspectable animation and rigging examples; it is not a game engine.
-
-Agent Skills · Python · game-development workflows
-
-[**View project →**](https://github.com/jammyfu/open-game-skills) · [Inspect implementation](https://github.com/jammyfu/open-game-skills/tree/main/skills)
 
 ### [MagMark](https://github.com/jammyfu/MagMark)
 

@@ -11,6 +11,20 @@
 <a id="selected-work"></a>
 ## 代表作品
 
+### [Open Game Skills · PunchBox Fighter](https://github.com/jammyfu/open-game-skills)
+
+<a href="https://github.com/jammyfu/open-game-skills"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/open_game_logo.png" width="640" alt="Open Game Skills"></a>
+
+**不只寫 Skill，讓遊戲成果呈現工作流程。** · 技能集 + 遊戲範例
+
+<a href="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif" width="880" alt="公開 Skill 儲存庫中的 PunchBox Fighter 終結技錄影，並非即時生成。"></a>
+
+依開發任務調度專業技能與遊戲引擎介接。PunchBox Fighter 是公開展示的工作流程範例，包含打擊停頓、反擊、連段回饋與終結技演出；工具包也提供可檢視的動畫和骨架綁定範例。這是可重用的開發技能集，不是遊戲引擎。
+
+Agent Skills · Python · 遊戲開發工作流程
+
+[**查看專案 →**](https://github.com/jammyfu/open-game-skills) · [查看實作](https://github.com/jammyfu/open-game-skills/tree/main/skills)
+
 ### [The Legend of Trump · 白宮奇遇記](https://github.com/jammyfu/TheLegendOfTrump)
 
 **從場景到戰鬥，做成能玩的瀏覽器冒險遊戲。** · 應用程式 / 可玩專案
@@ -22,18 +36,6 @@ AI 協作開發的低多邊形 3D 冒險：探索、劍盾與弓箭戰鬥、敵�
 React · TypeScript · Three.js / R3F · WebGL
 
 [**查看專案 →**](https://github.com/jammyfu/TheLegendOfTrump) · [查看實作](https://github.com/jammyfu/TheLegendOfTrump/tree/main/src/game)
-
-### [Open Game Skills · PunchBox Fighter](https://github.com/jammyfu/open-game-skills)
-
-**不只寫 Skill，讓遊戲成果呈現工作流程。** · 技能集 + 遊戲範例
-
-<a href="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif" width="880" alt="公開 Skill 儲存庫中的 PunchBox Fighter 終結技錄影，並非即時生成。"></a>
-
-依開發任務調度專業技能與遊戲引擎介接。PunchBox Fighter 是公開展示的工作流程範例，包含打擊停頓、反擊、連段回饋與終結技演出；工具包也提供可檢視的動畫和骨架綁定範例。這是可重用的開發技能集，不是遊戲引擎。
-
-Agent Skills · Python · 遊戲開發工作流程
-
-[**查看專案 →**](https://github.com/jammyfu/open-game-skills) · [查看實作](https://github.com/jammyfu/open-game-skills/tree/main/skills)
 
 ### [MagMark](https://github.com/jammyfu/MagMark)
 

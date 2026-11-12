@@ -38,3 +38,7 @@ The owner explicitly requested TheLegendOfTrump. It leads (`explicit_user_priori
 - ComfyUI: original resolution-adjuster workflow with input, connected nodes, result and mask, replacing the context-free black-and-white mask thumbnail. Input artworks are sample data, not a claim of original authorship.
 
 All source media is in the owner’s public project repositories and used for the owner-authorized portfolio. No additional rights are granted. Raw image URLs are pinned to source commits; they are not third-party promotion. Original media is preserved, no generated screenshots or speculative renderings.
+
+## Revision 3: owner-requested lead project
+
+Open Game Skills now leads with its existing red boxing-glove controller logo (docs/open_game_logo.png), visually checked against the source README. This is branding, not a project screenshot. The recorded Fighter demo remains below it. Trump moves to second position, per the owner’s correction; all five locales share this order. No new logo was invented.

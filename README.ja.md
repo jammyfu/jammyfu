@@ -11,6 +11,20 @@
 <a id="selected-work"></a>
 ## 代表作品
 
+### [Open Game Skills · PunchBox Fighter](https://github.com/jammyfu/open-game-skills)
+
+<a href="https://github.com/jammyfu/open-game-skills"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/open_game_logo.png" width="640" alt="Open Game Skills"></a>
+
+**スキルを説明するだけでなく、ゲームで示す。** · スキル集 + ゲーム例
+
+<a href="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif" width="880" alt="公開スキルリポジトリの PunchBox Fighter 録画。リアルタイム生成ではありません。"></a>
+
+開発タスクに応じて専門スキルとエンジンアダプターを選択。公開例の PunchBox Fighter はヒットストップ、カウンター、コンボ表示、フィニッシュ演出を備えます。アニメーションとリギングの実装例も含む再利用可能なスキル集で、ゲームエンジンではありません。
+
+Agent Skills · Python · ゲーム開発ワークフロー
+
+[**プロジェクトを見る →**](https://github.com/jammyfu/open-game-skills) · [実装を見る](https://github.com/jammyfu/open-game-skills/tree/main/skills)
+
 ### [The Legend of Trump · 白宫奇遇记](https://github.com/jammyfu/TheLegendOfTrump)
 
 **世界づくりから戦闘まで、遊べるブラウザー冒険ゲームに。** · アプリ / プレイ可能な作品
@@ -22,18 +36,6 @@ AI と協力して開発したローポリゴン 3D 冒険ゲーム。探索、�
 React · TypeScript · Three.js / R3F · WebGL
 
 [**プロジェクトを見る →**](https://github.com/jammyfu/TheLegendOfTrump) · [実装を見る](https://github.com/jammyfu/TheLegendOfTrump/tree/main/src/game)
-
-### [Open Game Skills · PunchBox Fighter](https://github.com/jammyfu/open-game-skills)
-
-**スキルを説明するだけでなく、ゲームで示す。** · スキル集 + ゲーム例
-
-<a href="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif" width="880" alt="公開スキルリポジトリの PunchBox Fighter 録画。リアルタイム生成ではありません。"></a>
-
-開発タスクに応じて専門スキルとエンジンアダプターを選択。公開例の PunchBox Fighter はヒットストップ、カウンター、コンボ表示、フィニッシュ演出を備えます。アニメーションとリギングの実装例も含む再利用可能なスキル集で、ゲームエンジンではありません。
-
-Agent Skills · Python · ゲーム開発ワークフロー
-
-[**プロジェクトを見る →**](https://github.com/jammyfu/open-game-skills) · [実装を見る](https://github.com/jammyfu/open-game-skills/tree/main/skills)
 
 ### [MagMark](https://github.com/jammyfu/MagMark)
 

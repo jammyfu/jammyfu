@@ -11,6 +11,20 @@
 <a id="selected-work"></a>
 ## 대표 작품
 
+### [Open Game Skills · PunchBox Fighter](https://github.com/jammyfu/open-game-skills)
+
+<a href="https://github.com/jammyfu/open-game-skills"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/open_game_logo.png" width="640" alt="Open Game Skills"></a>
+
+**스킬 설명을 넘어, 게임 결과로 보여 주는 워크플로.** · 스킬 모음 + 게임 예제
+
+<a href="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif" width="880" alt="공개 스킬 저장소의 PunchBox Fighter 녹화 영상이며 실시간 생성이 아닙니다."></a>
+
+개발 작업에 따라 전문 스킬과 엔진 어댑터를 선택합니다. 공개 예제인 PunchBox Fighter는 히트스톱, 카운터, 콤보 피드백, 피니시 연출을 보여 줍니다. 애니메이션과 리깅 예제도 포함한 재사용 가능한 스킬 모음이며 게임 엔진은 아닙니다.
+
+Agent Skills · Python · 게임 개발 워크플로
+
+[**프로젝트 보기 →**](https://github.com/jammyfu/open-game-skills) · [구현 보기](https://github.com/jammyfu/open-game-skills/tree/main/skills)
+
 ### [The Legend of Trump · 白宫奇遇记](https://github.com/jammyfu/TheLegendOfTrump)
 
 **세계 구현부터 전투까지, 직접 플레이하는 브라우저 모험 게임.** · 앱 / 플레이 가능한 프로젝트
@@ -22,18 +36,6 @@ AI 협업으로 개발한 로우 폴리 3D 모험 게임입니다. 탐험, 검·
 React · TypeScript · Three.js / R3F · WebGL
 
 [**프로젝트 보기 →**](https://github.com/jammyfu/TheLegendOfTrump) · [구현 보기](https://github.com/jammyfu/TheLegendOfTrump/tree/main/src/game)
-
-### [Open Game Skills · PunchBox Fighter](https://github.com/jammyfu/open-game-skills)
-
-**스킬 설명을 넘어, 게임 결과로 보여 주는 워크플로.** · 스킬 모음 + 게임 예제
-
-<a href="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif"><img src="https://raw.githubusercontent.com/jammyfu/open-game-skills/cdd133e8fd71b45fb519c49cd3532b1bed3ec83c/docs/showcase/punchbox-fighter-finisher-flame.gif" width="880" alt="공개 스킬 저장소의 PunchBox Fighter 녹화 영상이며 실시간 생성이 아닙니다."></a>
-
-개발 작업에 따라 전문 스킬과 엔진 어댑터를 선택합니다. 공개 예제인 PunchBox Fighter는 히트스톱, 카운터, 콤보 피드백, 피니시 연출을 보여 줍니다. 애니메이션과 리깅 예제도 포함한 재사용 가능한 스킬 모음이며 게임 엔진은 아닙니다.
-
-Agent Skills · Python · 게임 개발 워크플로
-
-[**프로젝트 보기 →**](https://github.com/jammyfu/open-game-skills) · [구현 보기](https://github.com/jammyfu/open-game-skills/tree/main/skills)
 
 ### [MagMark](https://github.com/jammyfu/MagMark)
 
