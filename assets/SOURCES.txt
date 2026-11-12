@@ -19,3 +19,9 @@ Not copied into this repo:
   reverse-engineering-atlas — in-repo images are third-party project/tool shots or a text social banner.
   github-risers — in-repo image is a social banner, not a ranking-board screenshot.
   awesome-gpt-image-gifs — gallery media is third-party; MIT covers code/docs only (see MEDIA_RIGHTS.md).
+
+magmark-main.png
+  Source: jammyfu/MagMark screenshots/magmark-main.png (unchanged actual beta UI screenshot)
+  Owner-authorized use in this profile. Source code repository is MIT; no blanket media license claimed.
+  Chinese UI intentionally unchanged in translated README versions.
+  Sample article text is not a verified research claim of this portfolio.
