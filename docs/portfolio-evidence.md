@@ -48,3 +48,7 @@ Open Game Skills now leads with its existing red boxing-glove controller logo (d
 At the owner’s request, all five featured projects now use a two-column preview/description table. Six existing images (including the Open Game Skills logo) are capped at 140 px. All original descriptions, evidence limits, source links and 17 projects are retained. Five languages share the same order. No media or descriptive claims were replaced.
 
 Full original descriptions are retained in five standalone expandable sections below the table; project names share the preview cell so they remain visible at narrow widths.
+
+## Fresh Trump capture
+
+Replaced archived boss frame with a new unchanged screenshot taken in Chrome from the live game after clicking Start Adventure on 2026-11-12. The screenshot depicts the real-time helicopter opening, not combat or a loading screen. Debug boss,god was verified from source but the deployed build hit a DataCloneError in checkpoint recording; no game code was changed. The normal opening renders, and the original image is 1945 × 1062 JPEG. This capture does not certify all game features.
