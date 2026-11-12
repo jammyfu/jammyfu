@@ -64,3 +64,7 @@ Replaced the raised-hammer frame with an actual spin-attack impact captured by h
 ## Revision 7: concise profile landing page
 
 The owner supplied screenshots identifying the five expandable detail blocks and the More public projects table for removal. Both are removed from all five homepages, leaving only one owner GitHub repository-list link. Featured project order and authentic media remain; duplicate intro/navigation, secondary project buttons and blank line breaks are removed. The original descriptive context is retained in portfolio-reference.md, not rendered on the profile front page. The source icon is 84 px and demo previews remain 140 px.
+
+## Revision 8: authentic combat GIF
+
+At the owner’s request, the Trump preview is now a six-second real recording from the local working build in the White House debug arena. The player lands a spin attack; the boss swings its hammer and slams the ground. Output: 640 × 384, 72 unique frames, 12 fps, 6000 ms, 3917067 bytes. Multi-frame visual review confirmed motion and no black frames. The GIF was encoded from live capture, not generated from a still. Only this portfolio asset and all five language references change; no game code is modified.
