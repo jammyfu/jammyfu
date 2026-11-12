@@ -31,7 +31,7 @@ React · TypeScript · Three.js / R3F · WebGL
 
 개발 작업에 따라 전문 스킬과 엔진 어댑터를 선택합니다. 공개 예제인 PunchBox Fighter는 히트스톱, 카운터, 콤보 피드백, 피니시 연출을 보여 줍니다. 애니메이션과 리깅 예제도 포함한 재사용 가능한 스킬 모음이며 게임 엔진은 아닙니다.
 
-Agent Skills · Python · game-development workflows
+Agent Skills · Python · 게임 개발 워크플로
 
 [**프로젝트 보기 →**](https://github.com/jammyfu/open-game-skills) · [구현 보기](https://github.com/jammyfu/open-game-skills/tree/main/skills)
 
@@ -55,7 +55,7 @@ TypeScript · 편집기 UX · 렌더링과 내보내기
 
 수묵화 두루마리, 3D 사제 관계, 검색과 인물 정보를 구조화된 인물·관계·출처 데이터에 연결합니다. 논쟁이 있는 관계는 별도로 표시하며 자료 정리를 확정된 역사적 사실로 제시하지 않습니다.
 
-React · Three.js · TypeScript · structured data
+React · Three.js · TypeScript · 구조화 데이터
 
 [**프로젝트 보기 →**](https://github.com/jammyfu/xiangsheng-genealogy) · [구현 보기](https://github.com/jammyfu/xiangsheng-genealogy/tree/main/data)
 

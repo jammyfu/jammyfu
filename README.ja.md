@@ -31,7 +31,7 @@ React · TypeScript · Three.js / R3F · WebGL
 
 開発タスクに応じて専門スキルとエンジンアダプターを選択。公開例の PunchBox Fighter はヒットストップ、カウンター、コンボ表示、フィニッシュ演出を備えます。アニメーションとリギングの実装例も含む再利用可能なスキル集で、ゲームエンジンではありません。
 
-Agent Skills · Python · game-development workflows
+Agent Skills · Python · ゲーム開発ワークフロー
 
 [**プロジェクトを見る →**](https://github.com/jammyfu/open-game-skills) · [実装を見る](https://github.com/jammyfu/open-game-skills/tree/main/skills)
 
@@ -55,7 +55,7 @@ TypeScript · エディター UX · 描画と書き出し
 
 水墨風の巻物、3D の師弟関係、検索と人物情報を、構造化した人物・関係・出典データにつなげます。異説のある関係には印を残し、資料整理を確定史実として扱いません。
 
-React · Three.js · TypeScript · structured data
+React · Three.js · TypeScript · 構造化データ
 
 [**プロジェクトを見る →**](https://github.com/jammyfu/xiangsheng-genealogy) · [実装を見る](https://github.com/jammyfu/xiangsheng-genealogy/tree/main/data)
 

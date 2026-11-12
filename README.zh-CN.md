@@ -31,7 +31,7 @@ React · TypeScript · Three.js / R3F · WebGL
 
 按开发任务调度专业技能与引擎适配器。PunchBox Fighter 是公开展示的工作流案例，包含打击停顿、反击、连段反馈与终结技演出；工具包同时提供可检查的动画和绑定案例。它是可复用的开发技能集，不是游戏引擎。
 
-Agent Skills · Python · game-development workflows
+Agent Skills · Python · 游戏开发工作流
 
 [**查看项目 →**](https://github.com/jammyfu/open-game-skills) · [查看实现](https://github.com/jammyfu/open-game-skills/tree/main/skills)
 
@@ -55,7 +55,7 @@ TypeScript · 编辑器体验 · 渲染与导出
 
 水墨山水长卷、三维师承视图、检索与人物资料，把视觉交互连接到结构化人物、关系及引用来源。对存在争议的师承保留标记，不把资料整理冒充权威定论。
 
-React · Three.js · TypeScript · structured data
+React · Three.js · TypeScript · 结构化数据
 
 [**查看项目 →**](https://github.com/jammyfu/xiangsheng-genealogy) · [查看实现](https://github.com/jammyfu/xiangsheng-genealogy/tree/main/data)
 

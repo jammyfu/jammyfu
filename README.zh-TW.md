@@ -11,7 +11,7 @@
 <a id="selected-work"></a>
 ## 代表作品
 
-### [The Legend of Trump · 白宫奇遇记](https://github.com/jammyfu/TheLegendOfTrump)
+### [The Legend of Trump · 白宮奇遇記](https://github.com/jammyfu/TheLegendOfTrump)
 
 **從場景到戰鬥，做成能玩的瀏覽器冒險遊戲。** · 應用程式 / 可玩專案
 
@@ -31,7 +31,7 @@ React · TypeScript · Three.js / R3F · WebGL
 
 依開發任務調度專業技能與遊戲引擎介接。PunchBox Fighter 是公開展示的工作流程範例，包含打擊停頓、反擊、連段回饋與終結技演出；工具包也提供可檢視的動畫和骨架綁定範例。這是可重用的開發技能集，不是遊戲引擎。
 
-Agent Skills · Python · game-development workflows
+Agent Skills · Python · 遊戲開發工作流程
 
 [**查看專案 →**](https://github.com/jammyfu/open-game-skills) · [查看實作](https://github.com/jammyfu/open-game-skills/tree/main/skills)
 
@@ -47,7 +47,7 @@ TypeScript · 編輯器使用體驗 · 算繪與匯出
 
 [**查看專案 →**](https://github.com/jammyfu/MagMark) · [查看實作](https://github.com/jammyfu/MagMark/tree/main/src)
 
-### [Xiangsheng Genealogy · 相声家谱](https://github.com/jammyfu/xiangsheng-genealogy)
+### [Xiangsheng Genealogy · 相聲家譜](https://github.com/jammyfu/xiangsheng-genealogy)
 
 **讓文化資料成為可探索的互動作品。** · 互動視覺化
 
@@ -55,7 +55,7 @@ TypeScript · 編輯器使用體驗 · 算繪與匯出
 
 水墨山水長卷、三維師承視圖、搜尋與人物資料，將視覺互動連結至結構化人物、關係和引用來源。保留師承爭議標記，不把資料整理當作權威定論。
 
-React · Three.js · TypeScript · structured data
+React · Three.js · TypeScript · 結構化資料
 
 [**查看專案 →**](https://github.com/jammyfu/xiangsheng-genealogy) · [查看實作](https://github.com/jammyfu/xiangsheng-genealogy/tree/main/data)
 
