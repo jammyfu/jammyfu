@@ -60,3 +60,7 @@ The owner requested White House interior combat. Replaced the opening image with
 ## Revision 6: show the hit, not only the wind-up
 
 Replaced the raised-hammer frame with an actual spin-attack impact captured by holding J for 1800 ms then releasing. The player is facing the camera with a blue circular sword trail; golden impact sparks, boss hit flash and reduced health are visible. Same existing local working build and debug arena, with no code or game-state edits. Original unchanged JPEG: 1426 × 912, 159552 bytes. Temporary server stopped afterward.
+
+## Revision 7: concise profile landing page
+
+The owner supplied screenshots identifying the five expandable detail blocks and the More public projects table for removal. Both are removed from all five homepages, leaving only one owner GitHub repository-list link. Featured project order and authentic media remain; duplicate intro/navigation, secondary project buttons and blank line breaks are removed. The original descriptive context is retained in portfolio-reference.md, not rendered on the profile front page. The source icon is 84 px and demo previews remain 140 px.
