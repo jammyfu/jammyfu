@@ -57,8 +57,6 @@ Custom ComfyUI nodes for image dimensions, text cleanup, masks and workflow repa
 
 ## How to evaluate my work
 
-Start with a working example, then follow the source, tests and documented limits. These repositories show how I connect product workflows, implementation and communication; they are not claims of commercial traction or sole authorship of every dependency.
+Start with a working example, then follow the source, tests and documented limits. I focus on connecting product workflows, implementation and clear communication.
 
 [**Explore all repositories →**](https://github.com/jammyfu?tab=repositories)
-
-<sub>Public project evidence, not an employment résumé.</sub>
