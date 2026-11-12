@@ -1,12 +1,64 @@
 # jammyfu / PaintingCoder
 
-Building practical AI tools, game-dev skills, and creative tools.
+**AI tools. Agent workflows. Creative software.**
 
-- [<img src="assets/icons/open-game-skills.png" width="47" height="28" alt=""> Open Game Skills](https://github.com/jammyfu/open-game-skills) — Reusable game-dev skills and examples that coding agents can follow.
-- [reverse-engineering-atlas](https://github.com/jammyfu/reverse-engineering-atlas) — A map of cross-platform reverse-engineering projects and tools.
-- [GitHub Risers](https://github.com/jammyfu/github-risers) — Discover open source by daily star growth, not total stars.
-- [<img src="assets/icons/awesome-gpt-image-gifs.png" width="28" height="28" alt=""> awesome-gpt-image-gifs](https://github.com/jammyfu/awesome-gpt-image-gifs) — A catalog of real GPT Image GIFs, prompts, and workflows—not a generator.
-- [<img src="assets/icons/the-legend-of-trump.svg" width="28" height="28" alt=""> TheLegendOfTrump](https://github.com/jammyfu/TheLegendOfTrump) — Playable unofficial 3D browser adventure; not a remake or official game.
-- [<img src="assets/icons/comfyui-paintingcoder-utils.png" width="28" height="28" alt=""> ComfyUI_PaintingCoderUtils](https://github.com/jammyfu/ComfyUI_PaintingCoderUtils) — ComfyUI utility nodes for resolution, text cleanup, and mask workflows.
+[English](README.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-[Bubufu](https://bubufu.com) · [X](https://x.com/laofu)
+I build practical tools that turn an idea into something people can inspect, run, and use. My public work spans AI-assisted game development, publishing software, ComfyUI workflows, and open-source discovery.
+
+[↓ Selected work](#selected-work) · [GitHub](https://github.com/jammyfu?tab=repositories)
+
+<a id="selected-work"></a>
+## Selected work
+
+### [Open Game Skills](https://github.com/jammyfu/open-game-skills)
+
+**Reusable workflows, not another prompt collection.**
+
+<a href="https://github.com/jammyfu/open-game-skills"><img src="assets/open-game-skills.jpg" width="360" alt="Open Game Skills"></a>
+
+Routes game-development tasks through specialized skills and engine adapters. The public pelican example connects layered art, bones, inverse kinematics and skin weights to an inspectable animation.
+
+`Agent orchestration · Python tooling · reproducible examples`
+
+[→ Review source & examples](https://github.com/jammyfu/open-game-skills) · [Implementation evidence](https://github.com/jammyfu/open-game-skills/tree/main/examples/pelican-bicycle)
+
+### [MagMark](https://github.com/jammyfu/MagMark)
+
+**From Markdown to a usable publication.**
+
+<a href="https://github.com/jammyfu/MagMark"><img src="assets/magmark-main.png" width="360" alt="MagMark"></a>
+
+A browser editor for Chinese and mixed-language typography, paginated previews, PNG output, print/PDF and WeChat rich text. Separate output paths make their constraints visible. Currently beta; target-browser and publishing checks still matter.
+
+`TypeScript · editor UX · rendering and export`
+
+[→ Review source & examples](https://github.com/jammyfu/MagMark) · [Implementation evidence](https://github.com/jammyfu/MagMark/tree/main/tests)
+
+### [ComfyUI PaintingCoderUtils](https://github.com/jammyfu/ComfyUI_PaintingCoderUtils)
+
+**Small tools that remove friction from creative work.**
+
+<a href="https://github.com/jammyfu/ComfyUI_PaintingCoderUtils"><img src="assets/comfyui-paintingcoder-utils.jpg" width="360" alt="ComfyUI PaintingCoderUtils"></a>
+
+Custom ComfyUI nodes for image dimensions, text cleanup, masks and workflow repair. Includes example workflow JSON and a migration fixer, rather than screenshots alone.
+
+`Python · image workflows · integration ergonomics`
+
+[→ Review source & examples](https://github.com/jammyfu/ComfyUI_PaintingCoderUtils) · [Implementation evidence](https://github.com/jammyfu/ComfyUI_PaintingCoderUtils/tree/main/workflow)
+
+*Original project imagery; not generated product mockups. The MagMark interface is Chinese in all five translations.*
+
+## More work: discovery and technical research
+
+- **[GitHub Risers](https://github.com/jammyfu/github-risers)** — Daily star-growth rankings with published calculation rules, archived snapshots and multilingual output.
+- **[Reverse Engineering Atlas](https://github.com/jammyfu/reverse-engineering-atlas)** — Cross-platform reverse-engineering research, organized by technique and platform, with sources and capability limits.
+- **[Awesome AI Model Showcases](https://github.com/jammyfu/awesome-ai-model-showcases)** — A source-linked gallery of AI-made work. My contribution here is the catalog and browsing experience; the showcased works belong to their credited creators.
+
+## How to evaluate my work
+
+Start with a working example, then follow the source, tests and documented limits. These repositories show how I connect product workflows, implementation and communication; they are not claims of commercial traction or sole authorship of every dependency.
+
+[**Explore all repositories →**](https://github.com/jammyfu?tab=repositories)
+
+<sub>Public project evidence, not an employment résumé.</sub>
