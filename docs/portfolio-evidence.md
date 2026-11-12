@@ -56,3 +56,7 @@ Replaced archived boss frame with a new unchanged screenshot taken in Chrome fro
 ## Revision 5: actual interior combat replaces the opening
 
 The owner requested White House interior combat. Replaced the opening image with a fresh unchanged screenshot of the existing local working build, entered through ?debug=office,god&difficulty=hard. Office is the source-supported alias for the boss arena; god is the debug invincibility switch. The boss is visibly raising its hammer with a red attack-warning ring, player and combat HUD present. The source working tree already contained local recording fixes; no game source was edited or committed for this portfolio task. This is explicitly captioned as a local working-build capture, not the deployed release. Original JPEG: 1945 × 1118, 251111 bytes.
+
+## Revision 6: show the hit, not only the wind-up
+
+Replaced the raised-hammer frame with an actual spin-attack impact captured by holding J for 1800 ms then releasing. The player is facing the camera with a blue circular sword trail; golden impact sparks, boss hit flash and reduced health are visible. Same existing local working build and debug arena, with no code or game-state edits. Original unchanged JPEG: 1426 × 912, 159552 bytes. Temporary server stopped afterward.
