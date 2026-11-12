@@ -52,3 +52,7 @@ Full original descriptions are retained in five standalone expandable sections b
 ## Fresh Trump capture
 
 Replaced archived boss frame with a new unchanged screenshot taken in Chrome from the live game after clicking Start Adventure on 2026-11-12. The screenshot depicts the real-time helicopter opening, not combat or a loading screen. Debug boss,god was verified from source but the deployed build hit a DataCloneError in checkpoint recording; no game code was changed. The normal opening renders, and the original image is 1945 × 1062 JPEG. This capture does not certify all game features.
+
+## Revision 5: actual interior combat replaces the opening
+
+The owner requested White House interior combat. Replaced the opening image with a fresh unchanged screenshot of the existing local working build, entered through ?debug=office,god&difficulty=hard. Office is the source-supported alias for the boss arena; god is the debug invincibility switch. The boss is visibly raising its hammer with a red attack-warning ring, player and combat HUD present. The source working tree already contained local recording fixes; no game source was edited or committed for this portfolio task. This is explicitly captioned as a local working-build capture, not the deployed release. Original JPEG: 1945 × 1118, 251111 bytes.
